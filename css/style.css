@@ -1,0 +1,15 @@
+.new-question{
+  z-index: 11111;
+  float: right;
+  position: fixed;
+  margin-left: 1185px !important;
+  margin-top: 500px !important;
+}
+
+.padd{
+padding: 0 100px 0 100px !important;
+}
+
+.left-small-margin{
+	margin-left: 5px;
+}
